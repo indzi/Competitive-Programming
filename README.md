@@ -1,5 +1,7 @@
-# Sphere-Online-Judge-SPOJ
-Here I will commit all the solutions of the exercises I will do on SPOJ regularly.
+# What is this repository is all about?
+Okay this repository will contain solutions to the dynamic programming problems that I solve everyday from different online judges like SPOJ, GoogleFoobar, HackerRank, TopCoder, CodeChef, etc.
 
-_ _
-Coding everyday plan of Indzi ;-)
+
+# SPOJ
+Problems contained in this repository
+1. 
